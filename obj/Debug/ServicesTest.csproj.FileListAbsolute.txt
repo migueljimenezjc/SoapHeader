@@ -1,0 +1,9 @@
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\bin\ServicesTest.dll.config
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\bin\ServicesTest.dll
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\bin\ServicesTest.pdb
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\obj\Debug\ServicesTest.csprojResolveAssemblyReference.cache
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\obj\Debug\ServicesTest.csproj.CoreCompileInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\obj\Debug\ServicesTest.dll
+C:\Users\Datransfer TIC-01\source\repos\DtServer\ServicesTest\obj\Debug\ServicesTest.pdb
